@@ -1,12 +1,11 @@
-absl-py==2.1.0
 gradio==5.44.1
-numpy==1.26.4
+numpy==1.27.4
 pandas==2.2.3
 scikit-learn==1.6.1
 PyMuPDF==1.26.4
 easyocr==1.7.2
 nltk==3.9.1
-torch==2.8.0+cpu
+torch==2.8.0
 transformers==4.55.0
 sentence-transformers==5.0.0
 faiss-cpu==1.7.4
